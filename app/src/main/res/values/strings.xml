@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Movie Apps</string>
+
+    <!-- Common -->
+    <string name="login">Login</string>
+    <string name="signup">Sign up</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+
+    <!-- Onboarding Screen -->
+    <string name="onboarding_title">Access more with an account</string>
+    <string name="onboarding_subtitle">Login to an account so you could access more features</string>
+
+    <!-- Login Screen -->
+    <string name="welcome_back">Welcome back 👋🏼</string>
+    <string name="welcome_message">I am so happy to see you again. You can continue to login for more features.</string>
+    <string name="no_account_message">Don\'t have an account?\t</string>
+
+    <!-- Signup Screen -->
+    <string name="join_us_today">Join us today 🎉</string>
+    <string name="signup_message">Create an account to enjoy exclusive features and stay connected.</string>
+    <string name="existing_account_message">Already have an account?\t</string>
+
+    <!-- Movie list Screen -->
+    <string name="search_bar_hints">Search for movies…</string>
+</resources>
