@@ -3,7 +3,6 @@
 
 <img align="right" alt="Movie Apps Icon" src="https://github.com/user-attachments/assets/04e06aae-3ef4-4059-9789-f6a08c2d4e1e" width="200px" height="200px"/>
 
-
 <h3>Some Project Requirements & Instructions</h3>
 
 - Create a mobile application that allows users to sign in, view movie listing, search by movie title, view search results, view details of the selected movies.
