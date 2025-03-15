@@ -1,0 +1,4 @@
+contact_links:
+  - name: Custom PR Template
+    url: https://github.com/KongQuan98/MovieApps/blob/main/.github/PULL_REQUEST_TEMPLATE/test_template_1.md
+    about: Use this template for new pull requests.
