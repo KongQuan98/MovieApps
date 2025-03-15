@@ -1,5 +1,5 @@
 # MovieApps
- Mobile Application built on Jetpack Compose for company interview assessmenet
+ Mobile Application built on Jetpack Compose for company interview assessment
 
 <img align="right" alt="Movie Apps Icon" src="https://github.com/user-attachments/assets/04e06aae-3ef4-4059-9789-f6a08c2d4e1e" width="200px" height="200px"/>
 
