@@ -1,5 +1,4 @@
-### Ticket Link 
-[Your ticket title](#your-link)
+### [About this ticket](#your-link)
 
 ### Summary of the ticket
 <!-- Summarize the bug encountered / feature concisely -->
